@@ -6,7 +6,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;
 
-#test
+//test
 public class TokenService {
 
     private static final String SECRET_KEY = System.getenv("TOKEN_SECRET") != null 
